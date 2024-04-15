@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI", "RestAPI\RestAPI.csproj", "{75D200AD-CEE4-460D-B7CD-B25A3E487BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D200AD-CEE4-460D-B7CD-B25A3E487BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D200AD-CEE4-460D-B7CD-B25A3E487BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D200AD-CEE4-460D-B7CD-B25A3E487BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D200AD-CEE4-460D-B7CD-B25A3E487BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
